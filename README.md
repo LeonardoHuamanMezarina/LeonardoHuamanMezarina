@@ -8,13 +8,13 @@
 <img width="250" style="border-radius: 15px; ; max-width: 100%; height: auto;" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3IweDFocnNzZm05czJldjRqNXdnaGhuMjRzYWJvaWd6ZHUwaW1iNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 <ul>
   <li>👋 Hi, I’m @LeonardoHuamanMezarina</li>
-  <li>❤️ I love Creating websites and Programming in Java</li>
-  <li>🌱 I'm currently learning web development with Python and React.</li>
-  <li>🧐 Portfolio Website, https://update</li>
-  <li>🌱 I'm currently learning web development with Python and React.</li>
-  <li>🧐 Portfolio Website, https://update</li>
-  <li>🌱 I'm currently learning web development with Python and React.</li>
-  <li>🧐 Portfolio Website, https://update</li>
+  <li>❤️ I enjoy building web applications using Java and Angular</li>
+  <li>🌱 I'm currently improving my skills in Spring Boot, Angular, and SQL Server</li>
+  <li>🐍 I'm also learning Python for backend fundamentals</li>
+  <li>🧰 Tools I often use: GitHub, Docker, VS Code, IntelliJ</li>
+  <li>🌐 Portfolio Website: https://update</li>
+  <li>⚡ Fun fact: I like working on real projects to challenge myself</li>
+
 </ul>
 <br>
 <br>
